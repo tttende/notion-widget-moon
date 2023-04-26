@@ -28,6 +28,7 @@
 }
 #contain_moon div:nth-child(4) {
    /* next full moon */
+  display: none;
   background: #ABBB7E;
   font-style: italic;
   color: #E7EBDA;
