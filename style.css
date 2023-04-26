@@ -5,6 +5,12 @@
   text-align: center;
   color:thistle;
 }
+
+#contain_moon svg {
+  width: auto;
+  height: auto;
+}
+
 #contain_moon div{
   position:relative;
   z-index: 1;
